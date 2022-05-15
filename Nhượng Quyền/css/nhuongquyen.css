@@ -1,0 +1,53 @@
+#main {
+    background-image: url(../img/office/bg_term.png);
+    background-size: 100%;
+    background-position: center center;
+}
+#body_content{
+    width: 75%;
+    margin: auto 50px;
+    padding-top: 135px;
+}
+#body_content .page_title{
+    color: #E53329;
+    font-size: 60px;
+    
+}
+#main_contain{
+    background-color: #FFE9DB;
+    width: 60%;
+    margin:  0 30px;
+    padding: 20px;
+}
+.inf-job{
+    color:#883A04;
+    
+
+    
+}
+.inf-job label{
+    color: #883A04;
+    display: inline;
+}
+.inf-job i{
+    font-size: 20px;
+}
+#main_contain p{
+    padding: 0  5px;
+}
+#main_contain p{
+    padding: 5px;
+
+}
+.inf-job ul{
+    padding: 5px 25px;
+    list-style: square;
+}
+#main_contain .chu{
+    color:#883A04;
+    font-weight: bold;
+}
+#main_contain label span{
+    color:#883A04;
+    font-weight: bold;
+}
